@@ -5,22 +5,7 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Interessado em desenvolvimento de software, com foco em backend e construção de aplicações utilizando Python.
 
 
-<p align="left"
-    <a href="https://github.com/MartinezFelipe14?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MartinezFelipe14?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MartinezFelipe14?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MartinezFelipe14?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
 
 ---
 
